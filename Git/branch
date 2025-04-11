@@ -1,0 +1,4 @@
+git checkout -b main
+git checkout -b dev
+git checkout -b feature
+
