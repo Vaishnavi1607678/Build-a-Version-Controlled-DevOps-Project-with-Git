@@ -1,0 +1,3 @@
+git push origin main
+git push origin dev
+git push origin feature
